@@ -45,4 +45,5 @@
 
 1. [Pro Git](https://git-scm.com/book/zh/v2)
 2. [Git原理详解](https://www.bilibili.com/video/BV11z4y1X79p/?spm_id_from=333.337.search-card.all.click)
+3. [Github文档](https://docs.github.com/zh)
 
